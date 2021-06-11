@@ -1,9 +1,5 @@
 """
-Professor, não sei se você vai ler esse comentário, mas queria deixar um aviso:
-
-Esse código está diferente do código feito pelos outros integrantes do meu grupo, pois a parte
-que cabia a eles resolver foi feita de última hora. Fiquei com medo de não entregarem a tempo e,
-por isso, eu resolvi não esperar e finalizei o trabalho sozinha.
+Locadora de Veículos
 """
 
 import datetime
